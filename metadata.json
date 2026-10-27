@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Study - Organização e Gamificação de Estudos",
+  "description": "App de organização de estudos com cronogramas dinâmicos, repositório de materiais, progresso semanal e gamificação com emblemas virtuais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
